@@ -1,16 +1,63 @@
-### Hi there 👋
+# Hello, I am Swayam Terode <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-<!--
-**swayamterode/swayamterode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://activity-graph.herokuapp.com/graph?username=swayamterode&theme=react-dark&hide_border=true&area=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am Swayam Terode. I am a first-year B.Tech student, studying Information Technology at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE (Savitribai Phule Pune University (SPPU))
+
+- 📫 How to reach me **swayamterodex@gmail.com**
+<table>
+  <tr>
+    <td><a href="https://twitter.com/swayamterode"><img src="https://img.shields.io/twitter/follow/swayamterode?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/swayam-terode"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    
+  </tr>
+</table>
+
+## Languages and Tools: 
+
+### Programming Languages
+>C , C++ and JavaScript
+
+### 💬 Ask me about C/C++
+
+### Web Development
+>NodeJS (Currenly Learning)
+
+### DataBase
+>MySQL
+
+## 🌱 I’m currently learning Web Developement
+
+* I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
+
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamterode">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swayamterode&count_private=true&show_icons=true&theme=light" alt="Sayan's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamterode&layout=compact&theme=light"/>
+
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swayamterode" alt="devded" /> </p>
+
+## 👨 Social
+
+1. [LinkedIn](https://www.linkedin.com/in/swayam-terode/)
+2. [Instagram](https://www.instagram.com/swayamterode/)
+3. [Twitter](https://twitter.com/swayamterode)
+4. [FaceBook](https://www.facebook.com/terodeswayam/)
+5. [CodeChef](https://www.codechef.com/users/swym)
+6. [Codeforces](https://codeforces.com/profile/swayamt)
+7. [YouTube](https://www.youtube.com/channel/UCaNo4d9GJPHCa5az5g_zM1Q) :point_left:Listen to  my produced beats. 
+
+<div align="center">
+  
+Show some ❤️ by starring some of the repositories!
+
+</div>
