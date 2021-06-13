@@ -5,7 +5,7 @@
 
 ## About
 
-I am Swayam Terode. I am a first-year B.Tech student, studying Information Technology at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE (Savitribai Phule Pune University (SPPU))
+I am **Swayam Terode**. I am a first-year B.Tech student, studying **Information Technology** at **G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE (Savitribai Phule Pune University (SPPU))**.
 
 - 📫 How to reach me **swayamterodex@gmail.com**
 <table>
