@@ -7,7 +7,9 @@
 
 I am **Swayam Terode**. I am a first-year B.Tech student, studying **Information Technology** at **G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE (Savitribai Phule Pune University (SPPU))**.
 
-- 📫 How to reach me **swayamterodex@gmail.com**
+-  📫 How to reach me **swayamterodex@gmail.com**
+-  💬 Ask me about **C/C++**
+
 <table>
   <tr>
     <td><a href="https://twitter.com/swayamterode"><img src="https://img.shields.io/twitter/follow/swayamterode?label=Twitter&style=social" alt="Twitter"></a></td>
@@ -16,27 +18,22 @@ I am **Swayam Terode**. I am a first-year B.Tech student, studying **Information
   </tr>
 </table>
 
-## Languages and Tools: 
+## Languages and Tools:
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
-### Programming Languages
->C , C++ and JavaScript
+</p>
 
-### 💬 Ask me about C/C++
 
-### Web Development
+## Web Development
+
 >NodeJS (Currenly Learning)
 
-### DataBase
->MySQL
 
 ## 🌱 I’m currently learning Web Developement
 
 * I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
- </p>
 
 ## Github Stats
 
