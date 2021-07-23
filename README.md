@@ -26,12 +26,12 @@ I am **Swayam Terode**. I am a first-year B.Tech student, studying **Information
 
 ## Web Development
 
->NodeJS (Currenly Learning)
+#### NodeJS (Currenly Learning)
 
 
 ## 🌱 I’m currently learning Web Developement
 
-* I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
+#### I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
 
 
 
