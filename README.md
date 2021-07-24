@@ -39,7 +39,7 @@ I am **Swayam Terode**. I am a first-year B.Tech student, studying **Information
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamterode">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swayamterode&count_private=true&show_icons=true&theme=light" alt="Sayan's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swayamterode&count_private=true&show_icons=true&theme=light" alt="Swayam's github stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamterode&layout=compact&theme=light"/>
 
