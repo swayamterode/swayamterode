@@ -48,15 +48,18 @@ I am **Swayam Terode**. I am a first-year B.Tech student, studying **Information
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swayamterode" alt="devded" /> </p>
 
-## 👨 Social
+<div align="center">
+  
+## 👨 Connect with me here
 
-1. [LinkedIn](https://www.linkedin.com/in/swayam-terode/)
-2. [Instagram](https://www.instagram.com/swayamterode/)
-3. [Twitter](https://twitter.com/swayamterode)
-4. [FaceBook](https://www.facebook.com/terodeswayam/)
-5. [CodeChef](https://www.codechef.com/users/swym)
-6. [Codeforces](https://codeforces.com/profile/swayamt)
-7. [YouTube](https://www.youtube.com/channel/UCaNo4d9GJPHCa5az5g_zM1Q) :point_left:Listen to  my produced beats. 
+[![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-terode/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-swayamterode-important?style=flat&logo=Instagram&logoColor=white)](https://m.me/swayamterode "Connect on Instagram")
+[![Twitter Badge](https://img.shields.io/badge/-@swayamterode-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=swayamterode "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/terodeswayam "Connect on Facebook")
+![](https://img.shields.io/youtube/channel/subscribers/UCaNo4d9GJPHCa5az5g_zM1Q)
+
+</div>
 
 <div align="center">
   
