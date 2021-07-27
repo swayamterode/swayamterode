@@ -1,11 +1,9 @@
 
 <div align="center">
   
-  # Welcome to Swayam Terode Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+  # Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=A+Passionate+Programmer;Engineering+student+%40GHRCEM%2C+Pune;Web+Development+Enthusiast;Exploring+Github+%F0%9F%99%86)](https://git.io/typing-svg)
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&lines=A+Passionate+Programmer;Engineering+student+%40GHRCEM%2C+Pune;Web+Development+Enthusiast;Exploring+Github+%F0%9F%99%86)](https://git.io/typing-svg)
 
   </div>
 
@@ -37,17 +35,20 @@ I am a first-year B.Tech student, studying **Information Technology** at **G H R
 
 
 ## 📊 Github stats
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swayam Terode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=swayamterode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px"/></a>
-    <br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swayamterode&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swayam Terode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamterode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px"/></a>
  
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
   
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
- 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
+  
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  
+ </div>
  
 <div align="center">
   
