@@ -3,7 +3,7 @@
   
   # Welcome to Swayam Terode Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0ECBF7&center=true&vCenter=true&lines=A+Passionate+Programmer+;Engineering+Student+at+GHRCEM%2C+Pune++;Web+Development+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=A+Passionate+Programmer;Engineering+student+%40GHRCEM%2C+Pune;Web+Development+Enthusiast;Exploring+Github+%F0%9F%99%86)](https://git.io/typing-svg)
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
 
