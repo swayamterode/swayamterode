@@ -23,10 +23,6 @@ I am a first-year B.Tech student, studying **Information Technology** at **G H R
   
 </p>
 
-## Web Development
-
-#### NodeJS (Currenly Learning)
-
 
 ## 🌱 I’m currently learning Web Developement
 
