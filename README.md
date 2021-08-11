@@ -2,10 +2,13 @@
 <div align="center">
   
   # Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+<br/>
+<img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/About_Gif.svg" alt="Here is a little bit about me!">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&lines=A+Passionate+Programmer;Engineering+student+%40GHRCEM%2C+Pune;Web+Development+Enthusiast;Exploring+Github+%F0%9F%99%86)](https://git.io/typing-svg)
+<br />
 
-  </div>
+
+ </div>
 
 
 ## 💬 About
