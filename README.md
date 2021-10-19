@@ -13,7 +13,7 @@
 
 ## 💬 About
 
-I am a first-year B.Tech student, studying **Information Technology** at **G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE (Savitribai Phule Pune University (SPPU))**.
+I am a first-year B.Tech student, studying **Information Technology**Savitribai Phule Pune University (SPPU)**.
 
 - Ask me about **C/C++**
 
