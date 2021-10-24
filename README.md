@@ -4,7 +4,7 @@
   # Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 <br/>
   
-<img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/About_Gif.svg" alt="Here is a little bit about me!">
+<img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!">
 
 <br />
 
@@ -13,8 +13,6 @@
 ## 💬 About
 
 I am a Second Year B.Tech student, studying **Information Technology** at **Savitribai Phule Pune University (SPPU)** who is passionate about Programming, and open source :octocat:. I love to learn and contribute in any and every possible way.
-
-- Ask me about **C/C++**
 
 ## 🛠  Languages and Tools
 
