@@ -33,23 +33,23 @@ I am exploring and learning more things in the domain of Web Development. I am f
 
 ## 📊 Github stats
 
+<details>
+  <summary>Open/Close</summary>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swayamterode&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swayam Terode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamterode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px"/></a>
  
  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
-  
+ </details> 
+ 
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
  <img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
-  
- <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  
- </div>
  
 <div align="center">
   
-## 👨 Let's Connect
+## My Handels
 
 [![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email") <a href="https://www.linkedin.com/in/swayam-terode/"><img src="https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://www.instagram.com/swayamterode/?hl=en"><img src="https://img.shields.io/badge/-@swayamterode-important?style=flat&logo=Instagram&logoColor=white"></a> <a href="https://twitter.com/intent/follow?screen_name=swayamterode"><img src="https://img.shields.io/badge/-@swayamterode-00acee?style=flat&logo=Twitter&logoColor=white" atl="Follow on Twitter"></a> <a href="https://www.youtube.com/channel/UCaNo4d9GJPHCa5az5g_zM1Q"><img src="https://img.shields.io/youtube/channel/subscribers/UCaNo4d9GJPHCa5az5g_zM1Q"></a>
 
