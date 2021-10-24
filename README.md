@@ -1,39 +1,35 @@
 
 <div align="center">
   
-  # Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
-<br/>
+# Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> <br>
   
-<img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!">
-
-<br />
+<img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!"> <br>
 
 </div>
 
 ## 💬 About
 
-I am a Second Year B.Tech student, studying **Information Technology** at **Savitribai Phule Pune University (SPPU)** who is passionate about Programming, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Second Year B.Tech student, studying **Information Technology** at **Savitribai Phule Pune University (SPPU)** who is passionate about Programming, and open source :octocat:. 
+
+I love to learn and contribute in any and every possible way.
+
+## 🌱 I’m currently learning Web Developement
+
+I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
 
 ## 🛠  Languages and Tools
 
 <p align="left">
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  
+![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 <!---
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><br><br>
 --->  
-  
 </p>
-
-
-## 🌱 I’m currently learning Web Developement
-
-#### I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
 
 ## 📊 Github stats
 
@@ -45,7 +41,7 @@ I am a Second Year B.Tech student, studying **Information Technology** at **Savi
   
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
+ <img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
   
  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   
@@ -55,12 +51,7 @@ I am a Second Year B.Tech student, studying **Information Technology** at **Savi
   
 ## 👨 Let's Connect
 
-  [![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email")
-  [![Linkedin Badge](https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-terode/ "Connect on LinkedIn")
-  [![Instagram Badge](https://img.shields.io/badge/-@swayamterode-important?style=flat&logo=Instagram&logoColor=white)](https://m.me/swayamterode "Connect on Instagram")
-  [![Twitter Badge](https://img.shields.io/badge/-@swayamterode-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=swayamterode "Follow on Twitter")
-  [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/terodeswayam "Connect on Facebook")
-  ![](https://img.shields.io/youtube/channel/subscribers/UCaNo4d9GJPHCa5az5g_zM1Q)
+[![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email") <a href="https://www.linkedin.com/in/swayam-terode/"><img src="https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://www.instagram.com/swayamterode/?hl=en"><img src="https://img.shields.io/badge/-@swayamterode-important?style=flat&logo=Instagram&logoColor=white"></a> <a href="https://twitter.com/intent/follow?screen_name=swayamterode"><img src="https://img.shields.io/badge/-@swayamterode-00acee?style=flat&logo=Twitter&logoColor=white" atl="Follow on Twitter"></a> <a href="https://www.youtube.com/channel/UCaNo4d9GJPHCa5az5g_zM1Q"><img src="https://img.shields.io/youtube/channel/subscribers/UCaNo4d9GJPHCa5az5g_zM1Q"></a>
 
 </div>
 
