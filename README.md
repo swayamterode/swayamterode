@@ -36,16 +36,20 @@ I am exploring and learning more things in the domain of Web Development. I am f
 <details>
   <summary>Open/Close</summary>
   
+ <!--- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swayamterode&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swayam Terode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamterode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px"/></a>
  
- <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
- </details> 
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
+ 
+
+ <img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
+ 
+</details> 
  
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
- <img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
  
 <div align="center">
   
