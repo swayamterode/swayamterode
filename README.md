@@ -9,13 +9,12 @@
 
 ## 💬 About
 
-I am a Second Year B.Tech student, studying **Information Technology** at **Savitribai Phule Pune University (SPPU)** who is passionate about Programming, and open source :octocat:. 
+I am a Second Year B.Tech student, studying **Information Technology** at **Savitribai Phule Pune University (SPPU)** who is passionate about Programming, and open source :octocat:, I love to learn and contribute in any and every possible way.
 
-I love to learn and contribute in any and every possible way.
-
-## 🌱 I’m currently learning Web Developement
+<!-- ## 🌱 I’m currently learning Web Developement
 
 I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
+-->
 
 ## 🛠  Languages and Tools
 
