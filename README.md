@@ -7,6 +7,7 @@
 
 </div>
 
+<!--
 ## 💬 About
 
 I am a Second Year B.Tech student, studying **Information Technology** at **Savitribai Phule Pune University (SPPU)** who is passionate about Programming, and open source :octocat:, I love to learn and contribute in any and every possible way.
@@ -14,7 +15,6 @@ I am a Second Year B.Tech student, studying **Information Technology** at **Savi
 <!-- ## 🌱 I’m currently learning Web Developement
 
 I am exploring and learning more things in the domain of Web Development. I am focusing more to do end to end projects on Web Development.
--->
 
 ## 🛠  Languages and Tools
 
@@ -28,6 +28,7 @@ I am exploring and learning more things in the domain of Web Development. I am f
 <!---
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><br><br>
 --->  
+<!--
 </p>
 
 ## 📊 Github stats
