@@ -2,10 +2,35 @@
 <div align="center">
   
 # Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> <br>
-  
+    
 <img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!"> <br>
 
 </div>
+
+## 💬 About
+
+- 🔭 I’m currently working on [News Classification ML Project](https://github.com/swayamterode/News-Classification)
+
+- 🌱 I’m currently learning **Frameworks**
+
+- 👯 I’m looking to collaborate on **JavaScript Project**
+
+<p align="left">
+</p>
+
+<!-- ************************SKILLS**************************
+### Skills
+
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  </p>
+*****************************************************************************************************************************************************************
+-->
 
 <!--
 ## 💬 About
@@ -31,11 +56,13 @@ I am exploring and learning more things in the domain of Web Development. I am f
 <!--
 </p>
 
+*****************************************************************************************************************************************
+
 ## 📊 Github stats
 
 <details>
-  <summary>Open/Close</summary>
-  
+<summary>Open/Close</summary>
+
  <!--- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swayamterode&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
 
@@ -43,19 +70,34 @@ I am exploring and learning more things in the domain of Web Development. I am f
  
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
  
-
+<!--- ********************GRAPH****************
  <img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
- 
 </details> 
- 
- <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
+https://github.com/ashutosh00710/github-readme-activity-graph 
+*****************************************************************************************************************************************************************
+-->
  
 <div align="center">
   
 ## My Handels
 
 [![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email") <a href="https://www.linkedin.com/in/swayam-terode/"><img src="https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://www.instagram.com/swayamterode/?hl=en"><img src="https://img.shields.io/badge/-@swayamterode-important?style=flat&logo=Instagram&logoColor=white"></a> <a href="https://twitter.com/intent/follow?screen_name=swayamterode"><img src="https://img.shields.io/badge/-@swayamterode-00acee?style=flat&logo=Twitter&logoColor=white" atl="Follow on Twitter"></a> <a href="https://www.youtube.com/channel/UCaNo4d9GJPHCa5az5g_zM1Q"><img src="https://img.shields.io/youtube/channel/subscribers/UCaNo4d9GJPHCa5az5g_zM1Q"></a>
+
+<!---
+### Socials 
+*****************************************************************************************************************************************************************
+<p align="left">
+<a href="https://discord.com/users/swayamterode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/terodeswayam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/swayamterode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="http://www.instagram.com/swayamterode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /><
+      <a href="https://www.linkedin.com/in/Swayam Terode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <a href="https://www.stackoverflow.com/users/17312962/swayam-terode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+ <a href="https://www.twitter.com/Swayam Terode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/ProdSwym" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+*****************************************************************************************************************************************************************
+-->   
 
 </div>
 
