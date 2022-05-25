@@ -6,7 +6,8 @@
 <img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!"> <br>
 
 </div>
-<a href="http://www.github.com/swayamterode"><img src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=181824&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="http://www.github.com/swayamterode"><img src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph" alt="Swayam Terode's GitHub Commits Graph" /></a>
 
 <p align="left">
 </p>
