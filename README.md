@@ -6,14 +6,7 @@
 <img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!"> <br>
 
 </div>
-
-## 💬 About
-
-- 🔭 I’m currently working on [News Classification ML Project](https://github.com/swayamterode/News-Classification)
-
-- 🌱 I’m currently learning **Frameworks**
-
-- 👯 I’m looking to collaborate on **JavaScript Project**
+<a href="http://www.github.com/swayamterode"><img src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=181824&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p align="left">
 </p>
