@@ -93,16 +93,8 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 *****************************************************************************************************************************************************************
 -->   
 
-<!---
-
-</div>
-
 <div align="center">
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=swayamterode" alt="devded" /> </p>
 
-    Show some ❤️ by starring some of the repositories!
-
 </div>
-
--->
