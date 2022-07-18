@@ -1,16 +1,12 @@
-
 <div align="center">
   
-# Welcome to Swayam Terode's Github Profile <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> --> <br>
-    
-<img src="https://github.com/swayamterode/swayamterode/blob/main/Gif%20and%20more/Readme%20Header.svg" alt="Here is a little bit about me!"> <br>
+# Welcome to Swayam Terode's Github Profile <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> -->
+
+![Intro_of_Me](https://github.com/swayamterode/swayamterode/blob/main/img/Readme_Header.svg)
 
 </div>
 
-<a href="http://www.github.com/swayamterode"><img src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph" alt="Swayam Terode's GitHub Commits Graph" /></a>
-
-<p align="left">
-</p>
+![Contribution_Graph](https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph)
 
 <!-- ************************SKILLS**************************
 ### Skills
@@ -46,7 +42,7 @@ I am exploring and learning more things in the domain of Web Development. I am f
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 <!---
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><br><br>
---->  
+--->
 <!--
 </p>
 
@@ -57,21 +53,21 @@ I am exploring and learning more things in the domain of Web Development. I am f
 <details>
 <summary>Open/Close</summary>
 
- <!--- 
+ <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swayamterode&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swayam Terode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamterode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px"/></a>
- 
+
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
- 
+
 <!--- ********************GRAPH****************
  <img alt="Swayam Terode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
-</details> 
+</details>
 
-https://github.com/ashutosh00710/github-readme-activity-graph 
+https://github.com/ashutosh00710/github-readme-activity-graph
 *****************************************************************************************************************************************************************
 -->
- 
+
 <div align="center">
 
 Let's Connects
@@ -86,7 +82,7 @@ Let's Connects
 </div>
 
 <!---
-### Socials 
+### Socials
 *****************************************************************************************************************************************************************
 <p align="left">
 <a href="https://discord.com/users/swayamterode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
@@ -98,10 +94,10 @@ Let's Connects
  <a href="https://www.twitter.com/Swayam Terode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/ProdSwym" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
 *****************************************************************************************************************************************************************
--->   
+-->
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=swayamterode" alt="devded" />
+ ![Profile Views](https://komarev.com/ghpvc/?username=swayamterode)
 
 </div>
