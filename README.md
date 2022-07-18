@@ -73,10 +73,17 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 -->
  
 <div align="center">
-  
-## My Handels
 
-[![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email") <a href="https://www.linkedin.com/in/swayam-terode/"><img src="https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://www.instagram.com/swayamterode/?hl=en"><img src="https://img.shields.io/badge/-@swayamterode-important?style=flat&logo=Instagram&logoColor=white"></a> <a href="https://twitter.com/intent/follow?screen_name=swayamterode"><img src="https://img.shields.io/badge/-@swayamterode-00acee?style=flat&logo=Twitter&logoColor=white" atl="Follow on Twitter"></a> <a href="https://www.youtube.com/channel/UCaNo4d9GJPHCa5az5g_zM1Q"><img src="https://img.shields.io/youtube/channel/subscribers/UCaNo4d9GJPHCa5az5g_zM1Q"></a>
+Let's Connects
+
+[![Gmail Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/google.png)](mailto:swayamterodex@gmail.com "Connect via Email")
+[![Linkedin Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/linkedin.png)](https://www.linkedin.com/in/swayamterode/ "Connect on LinkedIn")
+[![Instagram Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/instagram.png)](https://m.me/swayamterode "Connect on Instagram")
+[![Twitter Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/twitter.png)](https://twitter.com/intent/follow?screen_name=swayamterode "Follow on Twitter")
+[![Messenger Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/messenger.png)](https://m.me/terodeswayam "Connect on Facebook")
+[![Youtube](https://github.com/swayamterode/Codes/blob/main/DEV/social/youtube.png)](https://www.youtube.com/c/ProdSwym)
+
+</div>
 
 <!---
 ### Socials 
@@ -95,6 +102,6 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 
 <div align="center">
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=swayamterode" alt="devded" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=swayamterode" alt="devded" />
 
 </div>
