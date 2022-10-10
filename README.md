@@ -70,6 +70,8 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 
 <div align="center">
 
+![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark)
+
 Let's Connects
 
 [![Gmail Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/google.png)](mailto:swayamterodex@gmail.com "Connect via Email")
