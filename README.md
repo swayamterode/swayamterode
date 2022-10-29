@@ -70,7 +70,12 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 
 <div align="center">
 
-![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark)
+<!-- ![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark)
+ -->
+  
+## Hacktoberfest 2022
+  
+[![@swayamterode's Holopin board](https://holopin.me/swayamterode)](https://holopin.io/@swayamterode)
 
 Let's Connects
 
