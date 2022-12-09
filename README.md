@@ -1,12 +1,10 @@
 <div align="center">
   
-# Welcome to Swayam Terode's Github Profile <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> -->
+# Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
 
-![Intro_of_Me](https://github.com/swayamterode/swayamterode/blob/main/img/Readme_Header.svg)
+![Intro of Me](https://github.com/swayamterode/swayamterode/blob/main/img/Readme_Header.svg)
 
 </div>
-
-![Contribution_Graph](https://activity-graph.herokuapp.com/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph)
 
 <!-- ************************SKILLS**************************
 ### Skills
@@ -67,15 +65,22 @@ I am exploring and learning more things in the domain of Web Development. I am f
 https://github.com/ashutosh00710/github-readme-activity-graph
 *****************************************************************************************************************************************************************
 -->
+ ###  📈 GitHub Stats
 
 <div align="center">
-
 <!-- ![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark)
  -->
-  
-## Hacktoberfest 2022
-  
-[![@swayamterode's Holopin board](https://holopin.me/swayamterode)](https://holopin.io/@swayamterode)
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=swayamterode&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamterode&theme=blueberry_duo"/> |
+| --- | ---- |
+
+|![Contribution_Graph](https://github-readme-activity-graph.cyclic.app/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph)|
+|----|
+
+
+|[![@swayamterode's Holopin board](https://holopin.me/swayamterode)](https://holopin.io/@swayamterode)|
+|---|
 
 Let's Connects
 
