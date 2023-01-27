@@ -3,9 +3,31 @@
 # Welcome to Swayam Terode's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
 
 ![Intro of Me](https://github.com/swayamterode/swayamterode/blob/main/img/Readme_Header.svg)
-
 </div>
 
+<h2 align='left'>About me:</h2>
+
+<div>
+    I'm a Tech enthusiast and Information Technology Major Third year student with a passion for building purposeful and intuitive cross-platform applications.
+</div>
+  
+<br>
+
+```
+🔭 I’m currently learning FrontEnd Libraries
+👯 I’m looking forward to team-up for hackathons
+🤝 I’m looking to help with automation scripts 
+💬 Ask me about C/C++ 
+😄 Pronouns: he/him
+💙 Interested in Web Development and Blockchain Technology
+```
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,nodejs,mysql,linux,vscode,git,mongodb,markdown,github,vercel")
+</p>
+     
 <!-- ************************SKILLS**************************
 ### Skills
 
@@ -67,6 +89,8 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 -->
  ###  📈 GitHub Stats
 
+<details>
+
 <div align="center">
 <!-- ![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark)
  -->
@@ -78,10 +102,13 @@ https://github.com/ashutosh00710/github-readme-activity-graph
 |![Contribution_Graph](https://github-readme-activity-graph.cyclic.app/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph)|
 |----|
 
-
+  
 |[![@swayamterode's Holopin board](https://holopin.me/swayamterode)](https://holopin.io/@swayamterode)|
 |---|
 
+ </details>
+
+<!----  
 Let's Connects
 
 [![Gmail Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/google.png)](mailto:swayamterodex@gmail.com "Connect via Email")
@@ -90,7 +117,8 @@ Let's Connects
 [![Twitter Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/twitter.png)](https://twitter.com/intent/follow?screen_name=swayamterode "Follow on Twitter")
 [![Messenger Badge](https://github.com/swayamterode/Codes/blob/main/DEV/social/messenger.png)](https://m.me/terodeswayam "Connect on Facebook")
 [![Youtube](https://github.com/swayamterode/Codes/blob/main/DEV/social/youtube.png)](https://www.youtube.com/c/ProdSwym)
-
+---->
+  
 </div>
 
 <!---
