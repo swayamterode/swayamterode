@@ -37,7 +37,7 @@ Feel free to explore my repositories and connect with me on my coding journey!
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,vercel,vite,netlify"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,vercel,vite,netlify,redux"/>
 
 </p>
 
