@@ -4,15 +4,9 @@
   ![Intro of Me](https://github.com/swayamterode/swayamterode/blob/main/img/Readme_Header.svg)
 </div>
 
-<h2 align='left'>About me:</h2>
-
-<div align="left">
+<div align="center">
   
-🎓 Final-year B.Tech IT Student | 🛠️ DSA and MERN Stack Enthusiast
-
-Greetings! I am Swayam Terode, an ardent scholar in the realm of Information Technology, embarking on the concluding phase of my academic journey. Currently pursuing my Bachelor of Technology with a specialization in IT, I have honed my skills in Data Structures and Algorithms (DSA), and adeptly utilize the powerful MERN stack for web development. My passion lies in leveraging technology to innovate and create meaningful solutions.
-
-Feel free to explore my repositories and connect with me on my coding journey!
+🎓 B.Tech IT final-year student | 🛠️ DSA and MERN Stack enthusiast
 
 </div>
 
@@ -20,9 +14,7 @@ Feel free to explore my repositories and connect with me on my coding journey!
 
 ```
 🚀 Currently exploring FrontEnd Libraries and rocketing towards mastery!
-👥 On the lookout for exciting hackathons and amazing teams to join!
-🤖 Enthusiastic about automating tasks and happy to assist with scripts!
-💬 Share your curiosity about my MERN stack web app journey and the challenges I conquered!
+🎨 Turning ideas into vibrant, interactive web experiences!
 😄 Pronouns: he/him
 💙 Passionate about the boundless world of Web Development!
 ```
@@ -31,13 +23,7 @@ Feel free to explore my repositories and connect with me on my coding journey!
 
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,javascript,mysql,mongodb,express,react,nodejs,markdown,figma,postman,raspberrypi"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,vercel,vite,netlify,redux"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,tailwind,javascript,mysql,postgres,mongodb,express,react,nextjs,docker,figma,postman,github,vscode,git,vercel,vite,netlify,redux&perline=10"/>
 
 </p>
 
