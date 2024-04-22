@@ -23,7 +23,7 @@
 
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=c,cpp,tailwind,javascript,mysql,postgres,mongodb,express,react,nextjs,docker,figma,postman,github,vscode,git,vercel,vite,netlify,redux&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=cpp,tailwind,javascript,mysql,postgres,mongodb,express,react,nextjs,docker,figma,threejs,postman,git,github,gitlab,vscode,vercel,vite,redux&perline=10"/>
 
 </p>
 
