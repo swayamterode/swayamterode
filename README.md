@@ -29,8 +29,6 @@
 
  ###  📈 GitHub Stats
 
-<details>
-
 <div align="center">
   
 <!-- ![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark) -->
@@ -43,9 +41,6 @@
 
 |[![@swayamterode's Holopin board](https://holopin.me/swayamterode)](https://holopin.io/@swayamterode)|
 |---|
-
- </details>
-
 
 </div>
 
