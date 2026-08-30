@@ -20,10 +20,10 @@
 -->
 <!-- ![Github Proflie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamterode&theme=github_dark) -->
 
-
+<!-- 
 |![Contribution_Graph](https://github-readme-activity-graph.vercel.app/graph?username=swayamterode&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Swayam's%20Commits%20Graph)|
 |----|
-
+--->
 |[![@swayamterode's Holopin board](https://holopin.me/swayamterode)](https://holopin.io/@swayamterode)|
 |---|
 
